@@ -1,6 +1,6 @@
 # Presentación en Gamma
 
-- **Enlace público de Gamma:**
+- **Enlace público de Gamma:** [[Gamma](https://gamma.app/docs/Riesgos-laborales-en-una-planta-yerbatera-z49jywa15j205j8)
 
 ## Estructura obligatoria (6 láminas)
 1. Portada (módulo, nombre, tecnicatura)
